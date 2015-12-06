@@ -1,0 +1,6 @@
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Restarter\bin\Release\TiRoRiN_Restarter.exe.config
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Restarter\bin\Release\TiRoRiN_Restarter.exe
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Restarter\bin\Release\TiRoRiN_Restarter.pdb
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Restarter\obj\Release\TiRoRiN_Restarter.exe
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Restarter\obj\Release\TiRoRiN_Restarter.pdb
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Restarter\obj\Release\TiRoRiN_Restarter.csprojResolveAssemblyReference.cache

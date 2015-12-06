@@ -1,0 +1,10 @@
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Player_Spawner\bin\Debug\TiRoRiN_Player_Spawner.exe.config
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Player_Spawner\bin\Debug\TiRoRiN_Player_Spawner.exe
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Player_Spawner\bin\Debug\TiRoRiN_Player_Spawner.pdb
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Player_Spawner\bin\Debug\MySql.Data.dll
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Player_Spawner\obj\Debug\TiRoRiN_Player_Spawner.Form1.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Player_Spawner\obj\Debug\TiRoRiN_Player_Spawner.Properties.Resources.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Player_Spawner\obj\Debug\TiRoRiN_Player_Spawner.csproj.GenerateResource.Cache
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Player_Spawner\obj\Debug\TiRoRiN_Player_Spawner.exe
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Player_Spawner\obj\Debug\TiRoRiN_Player_Spawner.pdb
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Player_Spawner\obj\Debug\TiRoRiN_Player_Spawner.csprojResolveAssemblyReference.cache

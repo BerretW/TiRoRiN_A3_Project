@@ -1,0 +1,28 @@
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\bin\Release\TiRoRiN New Launcher.exe.config
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\bin\Release\TiRoRiN New Launcher.exe
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\bin\Release\TiRoRiN New Launcher.pdb
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\obj\Release\TiRoRiN New Launcher.csprojResolveAssemblyReference.cache
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\obj\Release\TiRoRiN_New_Launcher.Form1.resources
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\obj\Release\TiRoRiN_New_Launcher.Properties.Resources.resources
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\obj\Release\TiRoRiN New Launcher.csproj.GenerateResource.Cache
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\obj\Release\TiRoRiN New Launcher.exe
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\obj\Release\TiRoRiN New Launcher.pdb
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\bin\Release\ChilkatDotNet4.dll
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\bin\Release\MySql.Data.dll
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\obj\Release\TiRoRiN_New_Launcher.settings.resources
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\obj\Release\TiRoRiN_New_Launcher.install.resources
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\obj\Release\TiRoRiN_New_Launcher.register.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\bin\Release\TiRoRiN New Launcher.exe.config
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\bin\Release\TiRoRiN New Launcher.exe
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\bin\Release\TiRoRiN New Launcher.pdb
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\bin\Release\ChilkatDotNet4.dll
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\bin\Release\MySql.Data.dll
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\obj\Release\TiRoRiN New Launcher.csprojResolveAssemblyReference.cache
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\obj\Release\TiRoRiN_New_Launcher.Form1.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\obj\Release\TiRoRiN_New_Launcher.install.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\obj\Release\TiRoRiN_New_Launcher.Properties.Resources.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\obj\Release\TiRoRiN_New_Launcher.register.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\obj\Release\TiRoRiN_New_Launcher.settings.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\obj\Release\TiRoRiN New Launcher.csproj.GenerateResource.Cache
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\obj\Release\TiRoRiN New Launcher.exe
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN New Launcher\obj\Release\TiRoRiN New Launcher.pdb

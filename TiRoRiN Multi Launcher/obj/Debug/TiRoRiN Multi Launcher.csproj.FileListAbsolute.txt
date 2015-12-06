@@ -1,0 +1,12 @@
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\bin\Debug\TiRoRiN Multi Launcher.exe.config
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\bin\Debug\TiRoRiN Multi Launcher.exe
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\bin\Debug\TiRoRiN Multi Launcher.pdb
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\bin\Debug\MySql.Data.dll
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\obj\Debug\TiRoRiN Multi Launcher.csprojResolveAssemblyReference.cache
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\obj\Debug\TiRoRiN_Multi_Launcher.download.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\obj\Debug\TiRoRiN_Multi_Launcher.Form1.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\obj\Debug\TiRoRiN_Multi_Launcher.Properties.Resources.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\obj\Debug\TiRoRiN_Multi_Launcher.settings.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\obj\Debug\TiRoRiN Multi Launcher.csproj.GenerateResource.Cache
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\obj\Debug\TiRoRiN Multi Launcher.exe
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\obj\Debug\TiRoRiN Multi Launcher.pdb

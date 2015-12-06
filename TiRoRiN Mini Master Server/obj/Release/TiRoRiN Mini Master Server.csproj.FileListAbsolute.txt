@@ -1,0 +1,28 @@
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Release\TiRoRiN Mini Master Server.exe.config
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\obj\Release\TiRoRiN Mini Master Server.csprojResolveAssemblyReference.cache
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\obj\Release\TiRoRiN_Mini_Master_Server.Form1.resources
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\obj\Release\TiRoRiN_Mini_Master_Server.Properties.Resources.resources
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\obj\Release\TiRoRiN Mini Master Server.csproj.GenerateResource.Cache
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Release\config.cfg
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Release\TiRoRiN Mini Master Server.exe
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Release\TiRoRiN Mini Master Server.pdb
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\obj\Release\TiRoRiN Mini Master Server.exe
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\obj\Release\TiRoRiN Mini Master Server.pdb
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Release\MySql.Data.dll
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Release\Start_Server.cfg
+c:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Release\Respawn_Player.cfg
+c:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Release\Stop_Server.cfg
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Release\config.cfg
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Release\Respawn_Player.cfg
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Release\Start_Server.cfg
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Release\Stop_Server.cfg
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Release\TiRoRiN Mini Master Server.exe.config
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Release\TiRoRiN Mini Master Server.exe
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Release\TiRoRiN Mini Master Server.pdb
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Release\MySql.Data.dll
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\obj\Release\TiRoRiN Mini Master Server.csprojResolveAssemblyReference.cache
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\obj\Release\TiRoRiN_Mini_Master_Server.Form1.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\obj\Release\TiRoRiN_Mini_Master_Server.Properties.Resources.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\obj\Release\TiRoRiN Mini Master Server.csproj.GenerateResource.Cache
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\obj\Release\TiRoRiN Mini Master Server.exe
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\obj\Release\TiRoRiN Mini Master Server.pdb

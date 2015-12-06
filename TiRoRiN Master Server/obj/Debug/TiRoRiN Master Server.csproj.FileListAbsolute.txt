@@ -1,0 +1,8 @@
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Master Server\bin\Debug\TiRoRiN Master Server.exe.config
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Master Server\bin\Debug\TiRoRiN Master Server.exe
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Master Server\bin\Debug\TiRoRiN Master Server.pdb
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Master Server\obj\Debug\TiRoRiN Master Server.csprojResolveAssemblyReference.cache
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Master Server\obj\Debug\TiRoRiN_Master_Server.MainForm.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Master Server\obj\Debug\TiRoRiN Master Server.csproj.GenerateResource.Cache
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Master Server\obj\Debug\TiRoRiN Master Server.exe
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Master Server\obj\Debug\TiRoRiN Master Server.pdb

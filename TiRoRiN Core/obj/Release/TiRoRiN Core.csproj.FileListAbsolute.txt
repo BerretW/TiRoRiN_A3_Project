@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Core\bin\Release\TiRoRiN Core.exe
+C:\Users\Admin\Desktop\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Core\bin\Release\TiRoRiN Core.pdb
+C:\Users\Admin\Desktop\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Core\obj\Release\TiRoRiN Core.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Core\obj\Release\TiRoRiN_Core.Properties.Resources.resources
+C:\Users\Admin\Desktop\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Core\obj\Release\TiRoRiN Core.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Core\obj\Release\TiRoRiN Core.exe
+C:\Users\Admin\Desktop\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Core\obj\Release\TiRoRiN Core.pdb
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Core\obj\Release\TiRoRiN Core.exe
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Core\obj\Release\TiRoRiN Core.pdb
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Core\bin\Release\TiRoRiN Core.exe
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Core\bin\Release\TiRoRiN Core.pdb
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Core\obj\Release\TiRoRiN Core.csprojResolveAssemblyReference.cache
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Core\obj\Release\TiRoRiN_Core.Form1.resources
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Core\obj\Release\TiRoRiN_Core.Properties.Resources.resources
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Core\obj\Release\TiRoRiN Core.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Core\obj\Release\TiRoRiN_Core.Form1.resources

@@ -1,0 +1,11 @@
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN E-shop\bin\Debug\TiRoRiN E-shop.exe.config
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN E-shop\bin\Debug\TiRoRiN E-shop.exe
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN E-shop\bin\Debug\TiRoRiN E-shop.pdb
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN E-shop\bin\Debug\MySql.Data.dll
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN E-shop\obj\Debug\TiRoRiN E-shop.csprojResolveAssemblyReference.cache
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN E-shop\obj\Debug\TiRoRiN_E_shop.Form1.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN E-shop\obj\Debug\TiRoRiN_E_shop.Properties.Resources.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN E-shop\obj\Debug\TiRoRiN_E_shop.register.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN E-shop\obj\Debug\TiRoRiN E-shop.csproj.GenerateResource.Cache
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN E-shop\obj\Debug\TiRoRiN E-shop.exe
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN E-shop\obj\Debug\TiRoRiN E-shop.pdb

@@ -1,0 +1,14 @@
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Debug\config.cfg
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Debug\Respawn_Player.cfg
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Debug\Start_Server.cfg
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Debug\Stop_Server.cfg
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Debug\TiRoRiN Mini Master Server.exe.config
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Debug\TiRoRiN Mini Master Server.exe
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Debug\TiRoRiN Mini Master Server.pdb
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\bin\Debug\MySql.Data.dll
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\obj\Debug\TiRoRiN Mini Master Server.csprojResolveAssemblyReference.cache
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\obj\Debug\TiRoRiN_Mini_Master_Server.Form1.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\obj\Debug\TiRoRiN_Mini_Master_Server.Properties.Resources.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\obj\Debug\TiRoRiN Mini Master Server.csproj.GenerateResource.Cache
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\obj\Debug\TiRoRiN Mini Master Server.exe
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Mini Master Server\obj\Debug\TiRoRiN Mini Master Server.pdb

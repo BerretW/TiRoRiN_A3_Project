@@ -1,0 +1,4 @@
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\obj\Debug\TiRoRiN DayZ Launcher.csprojResolveAssemblyReference.cache
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\obj\Debug\TiRoRiN_Launcher.Form1.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\obj\Debug\TiRoRiN_Launcher.Properties.Resources.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\obj\Debug\TiRoRiN DayZ Launcher.csproj.GenerateResource.Cache

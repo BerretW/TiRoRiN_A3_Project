@@ -1,0 +1,10 @@
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Loadout\bin\Release\TiRoRiN Loadout.exe.config
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Loadout\bin\Release\TiRoRiN Loadout.exe
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Loadout\bin\Release\TiRoRiN Loadout.pdb
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Loadout\bin\Release\MySql.Data.dll
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Loadout\obj\Release\TiRoRiN_Loadout.Form1.resources
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Loadout\obj\Release\TiRoRiN_Loadout.Properties.Resources.resources
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Loadout\obj\Release\TiRoRiN Loadout.csproj.GenerateResource.Cache
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Loadout\obj\Release\TiRoRiN Loadout.exe
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Loadout\obj\Release\TiRoRiN Loadout.pdb
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Loadout\obj\Release\TiRoRiN Loadout.csprojResolveAssemblyReference.cache

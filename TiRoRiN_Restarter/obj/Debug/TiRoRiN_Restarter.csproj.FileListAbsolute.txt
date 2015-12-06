@@ -1,0 +1,6 @@
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Restarter\bin\Debug\TiRoRiN_Restarter.exe.config
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Restarter\bin\Debug\TiRoRiN_Restarter.exe
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Restarter\bin\Debug\TiRoRiN_Restarter.pdb
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Restarter\obj\Debug\TiRoRiN_Restarter.exe
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Restarter\obj\Debug\TiRoRiN_Restarter.pdb
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Restarter\obj\Debug\TiRoRiN_Restarter.csprojResolveAssemblyReference.cache

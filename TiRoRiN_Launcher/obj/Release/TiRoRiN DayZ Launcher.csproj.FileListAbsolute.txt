@@ -1,0 +1,22 @@
+C:\Users\Admin\Desktop\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\bin\Release\TiRoRiN DayZ Launcher.exe.config
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\bin\Release\TiRoRiN DayZ Launcher.exe.config
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\obj\Release\TiRoRiN DayZ Launcher.exe
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\obj\Release\TiRoRiN DayZ Launcher.pdb
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\obj\Release\TiRoRiN_Launcher.Form1.resources
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\obj\Release\TiRoRiN DayZ Launcher.csproj.GenerateResource.Cache
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\bin\Release\config.cfg
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\bin\Release\TiRoRiN DayZ Launcher.exe
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\bin\Release\TiRoRiN DayZ Launcher.pdb
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\bin\Release\MySql.Data.dll
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\obj\Release\TiRoRiN_Launcher.Properties.Resources.resources
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\obj\Release\TiRoRiN DayZ Launcher.csprojResolveAssemblyReference.cache
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\bin\Release\config.cfg
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\bin\Release\TiRoRiN DayZ Launcher.exe.config
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\bin\Release\TiRoRiN DayZ Launcher.exe
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\bin\Release\TiRoRiN DayZ Launcher.pdb
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\obj\Release\TiRoRiN DayZ Launcher.csprojResolveAssemblyReference.cache
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\obj\Release\TiRoRiN_Launcher.Form1.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\obj\Release\TiRoRiN_Launcher.Properties.Resources.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\obj\Release\TiRoRiN DayZ Launcher.csproj.GenerateResource.Cache
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\obj\Release\TiRoRiN DayZ Launcher.exe
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN_Launcher\obj\Release\TiRoRiN DayZ Launcher.pdb

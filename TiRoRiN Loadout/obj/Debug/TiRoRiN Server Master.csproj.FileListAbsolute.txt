@@ -1,0 +1,11 @@
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Loadout\bin\Debug\TiRoRiN Server Master.exe.config
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Loadout\bin\Debug\TiRoRiN Server Master.exe
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Loadout\bin\Debug\TiRoRiN Server Master.pdb
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Loadout\bin\Debug\MySql.Data.dll
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Loadout\obj\Debug\TiRoRiN_Server_Master.config.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Loadout\obj\Debug\TiRoRiN_Loadout.Form1.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Loadout\obj\Debug\TiRoRiN_Server_Master.Properties.Resources.resources
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Loadout\obj\Debug\TiRoRiN Server Master.csproj.GenerateResource.Cache
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Loadout\obj\Debug\TiRoRiN Server Master.exe
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Loadout\obj\Debug\TiRoRiN Server Master.pdb
+D:\Zaloha\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Loadout\obj\Debug\TiRoRiN Server Master.csprojResolveAssemblyReference.cache

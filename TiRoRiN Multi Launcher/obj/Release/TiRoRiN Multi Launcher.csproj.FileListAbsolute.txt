@@ -1,0 +1,12 @@
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\bin\Release\TiRoRiN Multi Launcher.exe.config
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\bin\Release\TiRoRiN Multi Launcher.exe
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\bin\Release\TiRoRiN Multi Launcher.pdb
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\bin\Release\MySql.Data.dll
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\obj\Release\TiRoRiN Multi Launcher.csprojResolveAssemblyReference.cache
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\obj\Release\TiRoRiN_Multi_Launcher.Form1.resources
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\obj\Release\TiRoRiN_Multi_Launcher.Properties.Resources.resources
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\obj\Release\TiRoRiN Multi Launcher.csproj.GenerateResource.Cache
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\obj\Release\TiRoRiN Multi Launcher.exe
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\obj\Release\TiRoRiN Multi Launcher.pdb
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\obj\Release\TiRoRiN_Multi_Launcher.settings.resources
+C:\program1\TiRoRiN Launcher\TiRoRiN Launcher\TiRoRiN Multi Launcher\obj\Release\TiRoRiN_Multi_Launcher.download.resources
